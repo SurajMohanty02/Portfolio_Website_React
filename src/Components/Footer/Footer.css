@@ -1,0 +1,9 @@
+.footer {
+  background: #24263b;
+  color: #fff;
+  padding: 20px;
+}
+
+.footer > p {
+  letter-spacing: 1px;
+}
